@@ -45,22 +45,6 @@ The site aggregates all of Derpixon's key online presences:
 
 No dependencies. No npm install. Just open the file and it works.
 
----
-
-## 🚀 Getting Started
-
-1. Clone or download the repo
-2. Open `derpixon-site.html` in your browser
-3. That's it — you're done
-
-```bash
-git clone https://github.com/your-username/derpixon-fan-site.git
-cd derpixon-fan-site
-open derpixon-site.html
-```
-
----
-
 ## 🙏 Credits & Disclaimer
 
 - **Fan art** featured in the site credited to the respective artists in the footer
@@ -72,3 +56,4 @@ open derpixon-site.html
 ## 📄 License
 
 This fan site is open for anyone to fork, adapt, or build upon — just please don't pass off Derpixon's actual artwork or characters as your own. Give credit where it's due. 💙
+Thanks!
